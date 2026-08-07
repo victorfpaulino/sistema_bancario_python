@@ -40,4 +40,4 @@ Não há dependências externas — usa apenas Python puro.
 
 ---
 
-Projeto de estudo, feito por [Victor Paulino](https://github.com/victorfpaulino).
+Projeto de estudo, feito por [Victor Ferreira Paulino](https://github.com/victorfpaulino).
